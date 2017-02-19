@@ -41,8 +41,8 @@
     "electron-inspector": "^0.1.3",
     "electron-packager": "^8.0.0",
     "electron-rebuild": "^1.2.1",
-    "react-scripts": "0.6.1",
-    "xo": "^0.16.0"
+    "react-scripts": "0.9.0",
+    "xo": "^0.17.1"
   },
   "xo": {
     "esnext": true,
