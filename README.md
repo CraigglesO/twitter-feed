@@ -1,5 +1,7 @@
 # twitter-feed
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/twitter-feed.svg)](https://greenkeeper.io/)
+
 > My stylish app
 
 
